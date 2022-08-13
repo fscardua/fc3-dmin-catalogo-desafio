@@ -1,0 +1,4 @@
+.ide/
+.history/
+node_modules/
+tsconfig.tsbuildinfo
